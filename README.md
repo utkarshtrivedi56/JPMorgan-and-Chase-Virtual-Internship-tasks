@@ -9,5 +9,5 @@ This repository contains the submitted patch files of the various tasks assigned
 [Internship Completion Certificate](https://drive.google.com/file/d/1aZBZjd_VTJNGovepXKiZN8oHbqelLEhd/view)
 
 
-![Home Screen](img.jpg)
+![Home Screen](https://github.com/utkarshtrivedi56/JPMorgan-and-Chase-Virtual-Internship-tasks)
 
